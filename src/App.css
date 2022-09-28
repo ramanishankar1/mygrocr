@@ -1,6 +1,22 @@
-.appContainer{
+*{
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  width: 100%;
+}
 
+.container{
+  width: 100%;
+  padding: 0px;;
+  margin: auto;
+  
+  /* text-align: center; */
+}
+
+a{
+  text-decoration: none;
+}
+.headingList{
+  text-align: center;
+  padding: 20px 5px;
+  text-transform: uppercase;
 }

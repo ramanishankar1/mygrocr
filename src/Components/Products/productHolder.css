@@ -1,0 +1,15 @@
+/* .Product-Holder{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+ */
+
+.productWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    margin-left: 20px;
+    padding: 20px;
+    /* padding: 25px 25px; */
+}
